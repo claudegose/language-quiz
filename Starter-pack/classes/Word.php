@@ -17,7 +17,6 @@ class Word
     }
 
 
-    public function verify()
     {
         // verify if the provided answer by the user matches the correct one
         // allow answers with different casing
