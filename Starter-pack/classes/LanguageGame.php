@@ -17,6 +17,8 @@ class LanguageGame
 
     public function run()
     {
+
+        $this->randomWord = $this->words[array_rand($this->words, 1)];
         // TODO: check for option A or B
 
         // Option A: user visits site first time (or wants a new word)
