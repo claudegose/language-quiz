@@ -1,0 +1,22 @@
+h1 {
+    color: dodgerblue;
+    text-align: center;
+    text-decoration: underline;
+    padding-top:50px;
+    padding-bottom: 50px;
+}
+
+
+.row {
+
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+
+.btn {
+    margin-top: 50px;
+    margin-left: 100px;
+    padding-left: 250px;
+
+}
